@@ -1,0 +1,51 @@
+#header {
+
+position: relative;
+
+height: 30%;
+width: 100%;
+
+background-color: #1E3C3C;
+
+}
+
+#svnit {
+
+position: absolute;
+
+background-image: url("svnit.png");
+
+background-size:150px 150px;
+
+background-repeat:no-repeat;
+
+background-position: center;
+
+padding-top:120;
+height: 25%;
+
+width: 20%;
+
+}
+#footer {
+
+position: absolute;
+
+height:10%;
+
+width:100%;
+
+background-color: #4D5D2E;
+
+}
+#texthead {
+
+position: absolute;
+
+top:0;
+
+left:300;
+
+color: white;
+
+}
